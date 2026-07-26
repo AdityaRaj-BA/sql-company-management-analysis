@@ -124,12 +124,15 @@ Through this project, I gained practical experience in:
 
 # 👨‍💻 Author
 
+# 📬 Connect With Me
+
 **Aditya Raj**
 
-Business Analytics Student
+🎓 Business Analytics Student
 
-GitHub: AdityaRaj-BA
+- 💼 LinkedIn: www.linkedin.com/in/aditya-raj-8b49b4249
+- 💻 GitHub: https://github.com/AdityaRaj-BA
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
+⭐ If you found this project useful, consider giving it a star!
